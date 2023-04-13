@@ -1,4 +1,4 @@
-<h1>PENJELASAM</h1>
+<h1>PENJELASAN</h1>
 <hr>
 <img src="Screenshot (366).png" width="50%">
 <hr>
